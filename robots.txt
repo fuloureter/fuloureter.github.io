@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fuloureter.github.io/sitemap
+Sitemap: https://fuloureter.github.io/app/sitemap
+Sitemap: https://fuloureter.github.io/assets/sitemap
+Sitemap: https://fuloureter.github.io/css/sitemap
+Sitemap: https://fuloureter.github.io/includes/sitemap
+Sitemap: https://fuloureter.github.io/item/sitemap
+Sitemap: https://fuloureter.github.io/src/sitemap
